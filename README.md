@@ -4,3 +4,6 @@ Motivation for this repostory consists in gaining experience working with python
 The usage of real world data is an incentive to present this project as a blog post on medium.
 
 https://alejandrosierra-53137.medium.com/should-i-post-my-apartment-in-airbnb-6fdd7c4b4a10
+
+Dataset can be found here
+https://www.kaggle.com/airbnb/seattle/data
